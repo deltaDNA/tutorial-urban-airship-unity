@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plist version="1.0">
+  <dict>
+    <key>customConfig</key>
+    <dict>
+      <key>notificationPresentationOptionAlert</key>
+      <true />
+      <key>notificationPresentationOptionBadge</key>
+      <false />
+      <key>notificationPresentationOptionSound</key>
+      <true />
+    </dict>
+    <key>developmentAppKey</key>
+    <string>x_6M7ClbQNqzdgRV6wCC7Q</string>
+    <key>developmentAppSecret</key>
+    <string>dn0cvBItQw2ygzklC4zWvg</string>
+    <key>developmentLogLevel</key>
+    <integer>4</integer>
+    <key>inProduction</key>
+    <false />
+  </dict>
+</plist>
